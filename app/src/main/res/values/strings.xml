@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Movie</string>
+    <string name="loading">Loading…</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="refresh">Refresh</string>
+    <string name="read_more">Read More</string>
+    <string name="show_less">Show Less</string>
+    <string name="show_more">Show More</string>
+    <string name="failed_to_load_data">Failed to load data</string>
+    <string name="theme_mode">Theme mode</string>
+
+    <string name="discover_movie">Discover Movie</string>
+
+    <string name="review">Review</string>
+
+    <string name="trailer">Trailer</string>
+</resources>
